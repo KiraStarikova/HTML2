@@ -1,0 +1,23 @@
+.iam {
+    width: 1400px;
+}
+
+body {
+    background: coral;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+h2 {
+    font-size: x-large;
+}
+p {
+    font-style: italic;
+}
+
+li {
+    font-style: oblique;
+    margin: 10px 0;
+}
